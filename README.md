@@ -34,5 +34,5 @@ Feel free to reach out for collaborations, tech discussions, or just a quick cha
 
 ---
 
-- ⚡ Fun fact: ...
+- ⚡ Fun Fact: I once spent hours training a model, only to realize I forgot to feed it the data. Lesson learned: AI needs food too! 📊🤦‍♂️ ...
 
