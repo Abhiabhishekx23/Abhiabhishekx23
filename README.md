@@ -9,7 +9,8 @@ I'm Abhishek, a passionate tech enthusiast exploring the endless possibilities o
   - Self-Driving Cars focusing on real-time object detection and perception with YOLO, OpenCV, LIDAR, TensorFlow, and ROS 🚗💡  
 - 💡 Previously worked on:  
   - Health-AI to predict Diabetes, Heart Disease, and Parkinson's Disease using AI.  
-  - English-to-French Neural Machine Translation, leveraging Hugging Face Transformers, TensorFlow, and the Opus-100 dataset for high-quality translations. 🌐📚  
+  - English-to-French Neural Machine Translation, leveraging Hugging Face Transformers, TensorFlow, and the Opus-100 dataset for high-quality translations. 🌐📚
+  - Built a skin disease detection model using ResNet50 and Explainable AI techniques like Grad-CAM and SHAP. 
 - 🌱 I’m currently learning Web Development to broaden my horizons! 🌐  
 - 🎯 My core skills include Python, C++, AI/ML/DL, and Blockchain.  
 
